@@ -1,8 +1,10 @@
 # Disk-Analyzer
 
-# ML-Based Disk I/O Performance Analysis
+# ML-Based Disk I/O Performance Analysis for LINUX / Windows
 
 A comprehensive web application that analyzes disk I/O performance using system metrics, database queries, algorithms, and machine learning predictions.
+
+//Note : windows users can run the code file via vs code or appropriate CMD command
 
 ## Table of Contents
 
