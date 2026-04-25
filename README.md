@@ -22,6 +22,14 @@ A comprehensive web application that analyzes disk I/O performance using system 
 - [Subject Connections](#subject-connections)
 
 ---
+<img width="1888" height="1009" alt="screenshot-2026-04-25_20-12-14" src="https://github.com/user-attachments/assets/34e87aa1-f7a8-40bd-b2d4-17d31f4f917d" />
+<img width="1884" height="1005" alt="screenshot-2026-04-25_20-12-54" src="https://github.com/user-attachments/assets/ce86f6cc-251f-430e-83d9-1cc8353ea03c" />
+<img width="1884" height="1005" alt="screenshot-2026-04-25_20-15-30" src="https://github.com/user-attachments/assets/53351b27-7bae-49ab-876a-be7f4f3ffc8c" />
+<img width="1884" height="1005" alt="screenshot-2026-04-25_20-15-43" src="https://github.com/user-attachments/assets/e6d33327-83ae-4944-9417-ca3c919754d7" />
+
+
+
+
 
 ## Overview
 
